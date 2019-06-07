@@ -1,0 +1,33 @@
+body{
+    padding: 50px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.intro{
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+p{
+    margin-top: 10px; 
+    font-size: 20px;
+    
+}
+
+.text{
+    color:grey;
+    margin-right: 400px;
+}
+
+button{
+    background-color: black;
+    color:rgb(228, 220, 220);
+    border-color: black;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+span{
+    color: red;
+}
